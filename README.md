@@ -217,6 +217,8 @@ npm run build
 ```
 
 ## 7. OUTPUT
+<img width="822" height="456" alt="image" src="https://github.com/user-attachments/assets/5bcc57f5-7ab4-464a-83e5-9388e59bfd11" />
+
 
 
 
